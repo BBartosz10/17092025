@@ -1,0 +1,79 @@
+.akapit {
+    font-size: 2rem;
+    color: chartreuse;
+}
+
+#akapit2 {
+    font-size: 1.25rem;
+    color: red;
+}
+
+p {
+    text-decoration: underline;
+}
+
+#pojemnik {
+    width: 1280px;
+    height: 791px;
+    background-color: lightgray;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#lewaStrona {
+    width: 50%;
+    height: 20%;
+    background-color: yellow;
+    float: left;
+}
+
+#prawaStrona {
+    width: 50%;
+    height: 20%;
+    background-color: #ddff00;
+    float: left;
+}
+
+#dol {
+    width: 100%;
+    height: 20%;
+    background-color: powderblue;
+    clear: both;
+}
+
+#prawo1 {
+    float: left;
+    width: 25%;
+    height: 20%;
+    background-color: gray;
+    margin-left: 50%
+}
+
+#prawo2 {
+    float: right;
+    width: 25%;
+    height: 20%;
+    background-color: blue;
+}
+
+#prawo3 {
+    width: 25%;
+    height: 20%;
+    background-color: red;
+    float: right
+}
+
+#prawo4 {
+    width: 25%;
+    height: 20%;
+    background-color: paleturquoise;
+    float: left
+}
+
+#dol2 {
+    width: 50%;
+    height: 20%;
+    margin-left: 25%;
+    background-color: lightgreen;
+    clear: both
+}
